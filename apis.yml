@@ -69,7 +69,7 @@ tags:
 - Prefabrication
 - Modular Housing
 - Housing
-- Real-Estate
+- Real Estate
 - Building Materials
 - Robotics
 - Sustainability
@@ -90,6 +90,7 @@ tags_raw:
 - Robotics
 - Sustainability
 - Acquired
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
