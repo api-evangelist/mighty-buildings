@@ -64,5 +64,46 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mighty Buildings is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/mighty-buildings_stock/
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
+Mighty Buildings is a construction-technology and advanced-manufacturing company that industrializes homebuilding using large-format 3D printing, proprietary polymer-composite materials and robotic automation. Founded in 2019 and originally based in Oakland, California, it raised more than $150 million from investors including Khosla Ventures, Bold Capital and Aramco's Wa'ed Ventures, and was the first company certified under the UL 3401 standard for evaluating building structures and assemblies, as well as being certified under California's Factory Built Housing program. Its current product is the Mighty Kit System / Mighty Wall System - factory-made complete wall panels that arrive on site with integrated structure, insulation, waterproofing and exterior finish, so builders assemble a building envelope with conventional methods and fewer on-site steps. After a January 2025 restructuring and sale process, the full suite of Mighty Buildings technologies was acquired by LUMUS Inc., and Mighty Buildings now operates as a LUMUS brand headquartered in Beaverton, Oregon. The company sells physical building systems to developers and builders; it operates no public API, developer portal, SDK, or machine-readable specification of any kind.
+
+**Areas:** Company · Construction · Construction Technology · 3D Printing · Advanced Manufacturing · Prefabrication · Modular Housing · Housing · Real Estate · Building Materials · Robotics · Sustainability
+
+## Mighty Buildings on APIs.io (historical record)
+
+Everything profiled for Mighty Buildings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mighty-buildings/](https://apis.io/providers/mighty-buildings/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mighty Buildings Domain Security](https://apis.io/security/mighty-buildings/mighty-buildings-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mightybuildings.com)
+- [Privacy policy](https://www.mightybuildings.com/privacy-policy)
+- [GitHub](https://github.com/MightyBuildings)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mighty Buildings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mighty-buildings/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
